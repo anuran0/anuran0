@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **LLM fine-tuning and backend development**
 
-- 📄 Know about my experiences [https://iemcollege-my.sharepoint.com/:b:/g/personal/anuran_de2022_iem_edu_in/ERsdeMIAl59Dg44beYRkOacBmgaVLx6F5NiiV3F-be1Jyg?e=GRiU46](https://iemcollege-my.sharepoint.com/:b:/g/personal/anuran_de2022_iem_edu_in/ERsdeMIAl59Dg44beYRkOacBmgaVLx6F5NiiV3F-be1Jyg?e=GRiU46)
+- 📄 Know about my experiences [here](https://iemcollege-my.sharepoint.com/:b:/g/personal/anuran_de2022_iem_edu_in/ERsdeMIAl59Dg44beYRkOacBmgaVLx6F5NiiV3F-be1Jyg?e=GRiU46)
 
 - ⚡ Fun fact **I like football a freakish lot**
 
