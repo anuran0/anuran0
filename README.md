@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anuran</h1>
 <h3 align="center">A passionate Data science developer from India</h3>
 
-- 🔭 I’m currently working on **PixelDerma**
+- 🔭 I’m currently working on **TELEDOCS**(github.com/anuran0/TELEDOCS)
+
 
 - 🌱 I’m currently learning **LLM fine-tuning and backend development**
 
