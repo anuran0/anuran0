@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anuran</h1>
 <h3 align="center">A passionate Data science developer from India</h3>
 github.com/anuran0/TELEDOCS
-- 🔭 I’m currently working on **TELEDOCS**[Feel free to contribute](https://github.com/anuran0/TELEDOCS)
+- 🔭 I’m currently working on **TELEDOCS**
+-Feel free to contribute [here](https://https://github.com/anuran0/TELEDOC)
 
 
 - 🌱 I’m currently learning **LLM fine-tuning and backend development**
