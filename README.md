@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anuran</h1>
 <h3 align="center">A passionate Data science developer from India</h3>
-github.com/anuran0/TELEDOCS
-- 🔭 I’m currently working on **TELEDOCS**
-
-
 
 - 🌱 I’m currently learning **LLM fine-tuning and backend development**
-
+- 🔭 I’m currently working on **TELEDOCS**
+  
 - 📄 Know about my experiences [here](https://iemcollege-my.sharepoint.com/:b:/g/personal/anuran_de2022_iem_edu_in/ERsdeMIAl59Dg44beYRkOacBmgaVLx6F5NiiV3F-be1Jyg?e=GRiU46)
-
+  
 - ⚡ Fun fact **I like football a freakish lot**
 
 <h3 align="left">Connect with me:</h3>
