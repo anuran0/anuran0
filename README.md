@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuran</h1>
 <h3 align="center">A passionate Data science developer from India</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=anuran0)](https://github.com/ryo-ma/github-profile-trophy)
 github.com/anuran0/TELEDOCS
 - 🔭 I’m currently working on **TELEDOCS**
 
